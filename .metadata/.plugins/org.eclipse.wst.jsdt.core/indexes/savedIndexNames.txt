@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\christian.brade\Desktop\Ohjelmointi II\Ver_2\Autot\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1905624955.index
+709776964.index
+1582770793.index
+2586483216.index
+1591057951.index
+352930489.index
